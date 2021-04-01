@@ -1,0 +1,83 @@
+{
+  "nodes": [
+    {
+      "id": 1,
+      "label_english": "Python",
+      "label_german": "Python",
+      "x": 1,
+      "y": 1,
+      "type": "skill"
+    },
+    {
+      "id": 2,
+      "label_english": "Web Scraping",
+      "label_german": "Web Scraping",
+      "x": 1,
+      "y": 1,
+      "type": "skill"
+    },
+    {
+      "id": 3,
+      "label_english": "Asset Pricing",
+      "label_german": "Asset Pricing",
+      "x": 1,
+      "y": 1,
+      "type": "skill"
+    },
+    {
+      "id": 4,
+      "label_english": "Undisclosed Quant. Cryptocurrency Fund Client 1",
+      "label_german": "Quantitativer Fonds für Kryptoinvestments (1)",
+      "x": 1,
+      "y": 1,
+      "type": "client"
+    },
+    {
+      "id": 5,
+      "label_english": "Undisclosed Quant. Cryptocurrency Fund Client 2",
+      "label_german": "Quantitativer Fonds für Kryptoinvestments (2)",
+      "x": 1,
+      "y": 1,
+      "type": "client"
+    },
+    {
+      "id": 6,
+      "label_english": "Cryptocurrency Broker Client",
+      "label_german": "Broker für Kryptowährungen",
+      "x": 1,
+      "y": 1,
+      "type": "client"
+    },
+    {
+      "id": 7,
+      "label_english": "Swiss Family Office",
+      "label_german": "Schweizer Family Office",
+      "x": 1,
+      "y": 1,
+      "type": "client"
+    },
+    {
+      "id": 8,
+      "label_english": "Top 5 Worldwide Recruitment Agency",
+      "id": "Eine der weltweiten Top 5 Personalvermittler",
+      "x": 1,
+      "y": 1,
+      "type": "client"
+    },
+    {
+      "id": 9,
+      "label_english": "Flick Gocke Schaumburg Partnerschaft mbB",
+      "label_german": "Flick Gocke Schaumburg Partnerschaft mbB",
+      "x": 1,
+      "y": 1,
+      "type": "client"
+    },
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 4,
+      "label": "",
+    },
+  ]
+}
